@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bluem {
+    color: blue;
+    font-size: 30px;
+    font-style: bold;
+    margin-bottom: 30px;
+}
+
+.blue h1 {
+    color: blue;
+    font-weight: 900;
+    font-style: bold;
+    margin-bottom: 40px;
+}
+
+.blue h2 {
+    margin-bottom: 30px;
+
+}
+
+.blue button {
+    margin-top: 50px;
+    border-color: blue;
+    border-radius: 30px;
+    height: 50px;
+    width: 200px;
+    color: blue;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+
+.blue {
+    padding-left: 60px;
+    padding-top: 50px;
+    width: 800px;
+    height: 500px;
+    border: 6px solid blue;
+    border-radius: 50px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
